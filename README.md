@@ -45,7 +45,7 @@ The average time for a new Olist Seller to reach a steady state of sales was **2
 
 Contrary to what the tortoise and the hare might suggest, slow ramp Sellers ultimately outperformed fast ramp Sellers in long-term GMS. Fast ramp Sellers plateaued early at a lower revenue ceiling while slow ramp Sellers continued growing. The did not stabilize cohort generated the highest GMS but with the most volatility — these appear to be high-volume Sellers whose sales are driven by seasonality or promotions rather than consistent demand.
 
-Compared to my experience with new vendor ramp at Amazon, 29.8 weeks aligns directionally with what I observed. However, Amazon Vendors benefit from structured account management support that likely accelerates ramp in ways not present in the Olist marketplace.
+Compared to my experience with new vendor ramp at Amazon, 29.8 weeks aligns directionally with what I observed — which makes sense given this analysis focuses on serious, high-volume sellers rather than the full Olist seller population.
 
 ![Ramp Curve](ramp_curve.png)
 
